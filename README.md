@@ -12,24 +12,25 @@ Objectives
 
 ## Data Exploration: Clean the data, deal with missing values, and perform normalization (min-max and z-score). Generate exploratory visualizations such as pair plots and calculate statistical properties like mean, variance, skew, and kurtosis.
 k-NN Classification:
-Train and evaluate k-NN classifiers on both datasets.
+Train and evaluate KNN classifiers on both datasets.
 Perform parameter tuning using cross-validation and report the best-performing k value.
 Compare weighted k-NN methods and explore alternative distance metrics.
-Methods
 
-## Data Cleaning: Handled missing values using interpolation, approximations, and smoothing.
+## Methods
+
+### Data Cleaning: Handled missing values using interpolation, approximations, and smoothing.
 Exploratory Plots: Generated pair plots for feature exploration and used correlation coefficients to identify feature relationships.
 Model Training & Validation:
 Iris Dataset: Applied 5-fold cross-validation.
 Heart Disease Dataset: Used train-validate-test split (80%-10%-10%) for model tuning.
-## Performance Evaluation: Assessed classification accuracy, AUC, and F-score.
+### Performance Evaluation: Assessed classification accuracy, AUC, and F-score.
 Results
 
 Best k-value was determined for each dataset, leading to improved classification accuracy.
-Analysis of weighted k-NN methods showed advantages in certain distance metrics.
+Analysis of weighted KNN methods showed advantages in certain distance metrics.
 Explored different algorithms for KNN to optimize speed and performance.
 
-## Tools and Libraries
+### Tools and Libraries
 
 Python: Used for implementing the project.
 Libraries:
