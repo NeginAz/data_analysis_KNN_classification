@@ -1,4 +1,4 @@
-Data Analysis and k-NN Classification
+#Data Analysis and KNN Classification
 
 This project focuses on applying data analysis techniques and k-NN classification to two datasets: the Iris dataset and the Heart Disease dataset. The goal is to explore the datasets, clean the data, perform normalization, and evaluate model performance using k-NN classification with various tuning and validation methods.
 
