@@ -38,11 +38,16 @@ Explored different algorithms for KNN to optimize speed and performance.
 
 Python: Used for implementing the project.
 Libraries:
+<br>
 pandas: For data manipulation and cleaning.
+<br>
 numpy: For numerical calculations.
+<br>
 seaborn and matplotlib: For data visualization.
+<br>
 scikit-learn: For implementing KNN classification, cross-validation, and performance metrics.
-Usage
+
+### Usage
 
 To run the project, ensure you have the required libraries installed:
 
