@@ -6,6 +6,7 @@ This project focuses on applying data analysis techniques and k-NN classificatio
 
 Iris Dataset:
 A benchmark dataset for machine learning algorithms. It includes features of three Iris flower species: Setosa, Versicolor, and Virginica. The dataset has 4 attributes and 150 instances.
+<br> 
 Heart Disease Dataset:
 This dataset includes 14 features and 303 instances, with the classification target being the presence or absence of heart disease (binary classification: 0 or 1).
 Objectives
